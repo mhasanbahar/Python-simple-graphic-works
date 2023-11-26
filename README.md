@@ -8,4 +8,4 @@ My third work is my favorite work, the Cartoon Character Doremon. [doremon.py](P
 
 My fifth project: Writing 'I Love You' inside a heart using the Turtle module in Python. [heart.py](Python-simple-graphic-works/heart.py)
 
-My sixth work is Drawing a Heart in Python using the Turtle module [ımpressCrush.py](Python-simple-graphic-works/ımpressCrush.py)
+My sixth work is Drawing a Heart in Python using the Turtle module [ımpressCrush.py](Python-simple-graphic-works/master/ımpressCrush.py)
