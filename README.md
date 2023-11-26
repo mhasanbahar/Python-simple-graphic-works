@@ -1,11 +1,11 @@
 # Some of my optional Python work
 
-My first work is Cute Panda production. [code_panda.py](Python-simple-graphic-works/code_panda.py)
+My first work is Cute Panda production.
 
-My second work is Round with Colored Stars. [desing.py](Python-simple-graphic-works/desing.py)
+My second work is Round with Colored Stars.
 
-My third work is my favorite work, the Cartoon Character Doremon. [doremon.py](Python-simple-graphic-works/doremon.py)
+My third work is my favorite work, the Cartoon Character Doremon.
 
-My fifth project: Writing 'I Love You' inside a heart using the Turtle module in Python. [heart.py](Python-simple-graphic-works/heart.py)
+My fifth project: Writing 'I Love You' inside a heart using the Turtle module in Python.
 
-My sixth work is Drawing a Heart in Python using the Turtle module [ımpressCrush.py](Python-simple-graphic-works/master/ımpressCrush.py)
+My sixth work is Drawing a Heart in Python using the Turtle module
